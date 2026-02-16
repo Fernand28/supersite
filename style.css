@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color: rgb(235, 74, 68);
+    font-family: cursive;
+    padding: 20px;
+    font-size: 35px;
+    background-image: linear-gradient(to right, rgb(51, 37, 36), white, rgb(236, 166, 166));
+    border-radius: 20px;
+}
